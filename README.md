@@ -4,7 +4,7 @@
 > This is the Official Web Site Of <a href="https://beefamilt.tk/"><b><i>BEE FAMILY</i></b></a>
 
 #
-<div align="center"><img src="Images/GREATSTUDIOSLK.png" width="300px"></div>
+<div align="center"><img src="assets/images/bee.png" width="300px"></div>
 
 # [![Contributors](https://img.shields.io/badge/Contributors-2-lawngreen.svg?style=flat-square)](#contributors-)
 
