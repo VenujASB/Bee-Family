@@ -1,7 +1,7 @@
-# <div align="center"><a href="https://beefamilt.tk/"><b><i>WELCOME!, TO THE OFFICIAL WEB SITE OF BEE FAMILY</i></b></a></div> 
+# <div align="center"><a href="https://beefamily.tk/"><b><i>WELCOME!, TO THE OFFICIAL WEB SITE OF BEE FAMILY</i></b></a></div> 
 
 #
-> This is the Official Web Site Of <a href="https://beefamilt.tk/"><b><i>BEE FAMILY</i></b></a>
+> This is the Official Web Site Of <a href="https://beefamily.tk/"><b><i>BEE FAMILY</i></b></a>
 
 #
 <div align="center"><img src="assets/images/bee.png" width="300px"></div>
